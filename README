@@ -1,0 +1,7 @@
+autor: Matheus Rangel de Melo
+
+Para compilar os programas basta executar o make.
+Quando estava desenvolvendo a lista a principio usei shared_ptr
+afim de facilitar o delete dos ponteiros, sendo que acabou que 
+ajudando em nada na minha solocao, acabei tendo que usar pontei-
+ros normais. 
